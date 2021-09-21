@@ -1,7 +1,8 @@
 # CampusBookDonationManagementSystem
-校园图书捐赠管理系统
+
 <p>群: 123300273(大佬群 2TB学习资料,讲解)(入群获取sql文件)</p>
 <p>QQ: 1095737364(入群获取sql文件)</p>
+
 <p><h1 align="center">高校校园设备管理系统</h1></p>
 
 <p align="center">
